@@ -12,7 +12,7 @@ It leverages the power of Next.js for the frontend and FastAPI for the backend, 
 
 ## Getting Started
 
-### Prerequisites
+### Tech Stack
 
 - Node.js
 - Python 3.9 or higher
